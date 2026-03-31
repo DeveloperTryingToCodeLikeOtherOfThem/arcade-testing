@@ -2,7 +2,8 @@
   "name": "Test",
    "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "token": "https://github:DeveloperTryingToCodeLikeOtherOfThem/pxt-token-generator#e62086d06f16ceef879614fff6a239ddbefb1bfd"
     },
   "files": [
     "testing.ts"
